@@ -1,4 +1,4 @@
-- Hi, I’m Amanda Nobre. I’m interested in game design and c++. I'm looking to show the games that I have created and the projects that I learned.
+- Hi, I’m Amanda Nobre. I’m interested in game programming and c++. I'm looking to show the games that I have created and the projects that I learned.
 
 
 <!---
